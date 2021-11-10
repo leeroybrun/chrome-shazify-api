@@ -1,0 +1,12 @@
+{
+  "name": "chrome-shazify-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leeroy Brun <leeroy.brun@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^11.8.2"
+  }
+}
